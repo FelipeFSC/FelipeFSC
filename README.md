@@ -2,7 +2,7 @@
 
 <br/>
 
-- 🖥️ Atualmente estou trabalhando como "Auxiliar" de Desenvolvimento (Dev Jr)
+- 🖥️ Atualmente estou trabalhando como desenvolvedor júnior
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
 
 <br/>
