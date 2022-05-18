@@ -37,9 +37,6 @@
 <br/>
 <div>
   <a href="https://github.com/FelipeFSC">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeFSC&show_icons=true&theme=radical)
-    
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeFSC&show_icons=true&theme=radical"/>    
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeFSC&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515&text_color=d8dee9&title_color=935afe&border_color=935afe"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFSC&layout=compact&langs_count=7&bg_color=151515&text_color=d8dee9&title_color=935afe&border_color=935afe"/>    
 </div>
