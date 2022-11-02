@@ -2,8 +2,8 @@
 
 <br/>
 
-- 🖥️ Atualmente estou trabalhando como desenvolvedor júnior
-- 📚 Cursando Análise e Desenvolvimento de Sistemas
+- 🖥️ Atualmente estou trabalhando como desenvolvedor Full Stack júnior
+- 📚 Formado em Análise e Desenvolvimento de Sistemas
 
 <br/>
 
