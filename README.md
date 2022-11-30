@@ -2,7 +2,7 @@
 
 <br/>
 
-- 🖥️ Atualmente estou trabalhando como desenvolvedor Full Stack júnior
+- 🖥️ Atualmente estou trabalhando como desenvolvedor Full Stack Pleno
 - 📚 Formado em Análise e Desenvolvimento de Sistemas
 
 <br/>
